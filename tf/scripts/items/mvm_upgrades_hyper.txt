@@ -4,21 +4,17 @@
 // upgrades.txt
 "upgrades"
 {
-	// HYPER UPGRADES
-	// Insanely overpowered upgrades for MvM
-	// Originally made by ShadowBolt
-	// Recreated by Space and hosted on TF2Cloud
 	"ItemUpgrades"
 	{
-//		"1"
-//		{
-//			// Damage - Normal
-//			"attribute"	"damage bonus"
-//			"icon"		"achievements/tf_demoman_kill_x_with_directpipe"
-//			"increment"	"4.00"
-//			"cap"		"21.0"
-//			"cost"		"0"
-//		}
+		"1"
+		{
+			// Damage - Normal
+			"attribute"	"damage bonus"
+			"icon"		"achievements/tf_demoman_kill_x_with_directpipe"
+			"increment"	"1.10"
+			"cap"		"1.50"
+			"cost"		"0"
+		}
 //		"1.1"
 //		{
 //			// Damage - Low
